@@ -8,7 +8,7 @@
 ### Technical Analysis
 
 ### Results
-[analysis]  (Fig%Challenge.png)
+!(Fig%Challenge.png)
 
 ### Summary
 
