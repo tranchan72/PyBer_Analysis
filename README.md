@@ -2,9 +2,9 @@
 # PyBer Analysis Report
 
 ## Background and Results
-  Create a visualization for ride-sharing fare in cities which are grouped by types: Rural, Urban, Suburban 
+  Create a visualization for ride-sharing fare in cities which are grouped by types: Rural, Urban, Suburban. 
 ### Purpose
-  This multiple line chart 
+  This multiple-line graph is to show a trend of total fares by month among 3 cities' types 
 ### Technical Analysis
 
 ### Results
