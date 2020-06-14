@@ -8,8 +8,6 @@
 ### Technical Analysis
   Sum of fares of all cities by types
 ### Results
-  ! (Fig%Challenge.png)
-
 ### Summary
   The chart shows clearly that total fares in urban cities are much greater than in rural cities. There is no significant differences in total fares by month.
 
@@ -20,27 +18,7 @@
 
 ### Challenges and Difficulties Encountered
 
-* Programming: Some are not covered in Module. A lot of Google-fu has been used
-
-* Data analysis
+* Programming: Some are not covered in Module. A lot of Google-fu has been used.
 
 * Graphing, etc: import matplotlib.dates as mdates is not covered. It took a lot of time to format ticks by month.
 
-### Technical Analyses Used
-
-## Recommendations and Next Steps
-
-### Recommendations for Future Analysis
-  
-
-### Additional Analysis 1
-
-* Description of Approach
-
-* Technical Steps
-
-### Additional Analysis 2
-
-* Description of Approach
-
-* Technical Steps
